@@ -1,0 +1,10 @@
+codes/dataset/
+codes/best_models/
+codes/saved_models/
+codes/**/__pycache__/
+*.pyc
+.DS_Store
+reference_CZcoco_FDU_DL/
+smoke_models/
+smoke_figs/
+model_checkpoints.zip
