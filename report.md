@@ -8,9 +8,9 @@ date: "May 21, 2026"
 
 This project studies handwritten digit classification on MNIST using neural networks implemented with NumPy. The implementation does not use deep learning libraries for the required operators. I completed the forward and backward propagation of linear layers, the softmax cross-entropy loss, a 2D convolution operator, an MLP baseline, and a simple CNN. I also explored two additional directions: optimization with momentum and L2 regularization. To make the comparison more interpretable, I added confusion matrices, confident-error examples, MLP weight visualization, and CNN kernel visualization.
 
-Code repository: TODO
+Code repository: https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1
 
-Trained model/checkpoint link: TODO
+Trained model/checkpoint link: https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1/releases/tag/v1.0.0
 
 # 2. Implementation
 
