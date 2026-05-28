@@ -8,7 +8,7 @@ date: "2026 年 5 月 21 日"
 
 本次项目的目标是在不调用深度学习框架现成算子的前提下，用 NumPy 实现一个可以训练的神经网络，并在 MNIST 手写数字数据集上完成分类实验。我主要完成了线性层的前向和反向传播、带 softmax 的多分类交叉熵损失、二维卷积层、MLP baseline 和一个简单 CNN。除了必做的 MLP 与 CNN 对比外，我还做了两个附加实验，分别考察 momentum 优化和 L2 正则化的影响。
 
-代码仓库链接为 https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1。训练好的模型权重没有直接放进代码仓库，而是作为 release 附件单独上传，链接为 https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1/releases/tag/v1.0.0。
+代码仓库链接为 https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1。数据集和训练好的模型权重没有直接放进代码仓库，而是作为 GitHub Release 附件单独上传。MNIST 数据集压缩包链接为 https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1/releases/download/v1.0.0/mnist_dataset.zip，模型权重压缩包链接为 https://github.com/Yonder-Solivagant/FDU_NNDL_PJ1/releases/download/v1.0.0/model_checkpoints.zip。
 
 # 2. 实现方法
 
